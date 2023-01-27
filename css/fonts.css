@@ -1,0 +1,87 @@
+.font-serif {
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+.font-sans-serif {
+    font-family: 'Public Sans', sans-serif;
+}
+
+.h1 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 45px;
+    line-height: 50px;
+    letter-spacing: 2px;
+    color: #3a3a3a;
+}
+
+.h2 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 25px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    color: #5c5b5b;
+}
+
+.h3 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: -0.285714px;
+}
+
+.body1 {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 30px;
+    width: 720px;
+}
+
+.body2 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 30px;  
+}
+
+.body3 {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: bolder; 
+    font-size: 13px;
+    line-height: 20px;
+    /* width: 227px;
+    height: 75px; */
+}
+
+.body4 {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 16px;
+    width: 227px;
+    height: 75px;
+}
+
+.body5 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 10px;  
+}
+
+.text-upper {
+    text-transform: uppercase;
+}
+
+.text-underline {
+    text-decoration: underline;
+}

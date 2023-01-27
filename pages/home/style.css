@@ -1,0 +1,139 @@
+.hearder-logo {
+    width: 100px;
+    height: 24px;
+    
+}
+
+.search-icon {
+    width: 12px;
+    height: 10px;
+    
+}
+
+.banner-container {
+    background-image: url(../../assets/Banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    width: 100%;
+    height: 530px;
+}
+
+.about-section {
+    max-height: 700px;
+    width: 100%;
+}
+
+.about-picture-1 {
+    max-width: 345px;
+    max-height: 345px;
+}
+
+.about-picture-2 {
+    width: 270px;
+    height: 260px;
+}
+
+.about-content-1 {
+    width: 720px;
+    height: 300px;
+}
+
+.about-content-2 {
+    width: 835px;
+    height: 220px;
+}
+
+.potfolio-section {
+    width: 100%;
+    max-height: 690px;
+}
+
+.potfolio-section img {
+    width: 290px;
+    max-height: 190px;
+}
+
+.portfolio-content {
+    transform: scale(1.1);
+}
+
+
+.depo-content {
+    width: 100%;
+    max-height: 600px;
+}
+
+.depo-images {
+    width: 70px;
+    height: 90px;
+}
+
+.profile-image {
+    width: 75px;
+    height: 77px;
+
+    background-color: #D9D9D9;
+}
+
+.arrows {
+    width: 11px;
+    height: 20px;
+}
+
+.depo-text {
+    width: 227px;
+    height: 75px;
+}
+
+.contact-content {
+    max-height: 190px;
+    padding: 0;
+}
+
+.footer {
+    width: 100%;
+    height: 380px;
+}
+
+.footer-content-1, .footer-content-2 {
+    width: 537px;
+    height: 323px;
+    border: 1px solid #fafafa;
+}
+
+.newsletter-content {
+    width: 500px;
+    height: 90px;
+}
+
+.mini-portfolio {
+    max-width: 468px;
+    max-height: 133px;
+}
+
+.mini-portfolio-images {
+    width: 97px;
+    height: 94px;
+}
+
+.mini-portfolio-images img {
+    width: 95px;
+    height: 80px;
+}
+
+.footer-menu-content {
+    width: 92px;
+    height: 146px;
+}
+
+.footer-about-content {
+    width: 163px;
+    height: 88px;
+}
+
+.logo-footer {
+    width: 152px;
+    height: 44px;
+}

@@ -1,0 +1,24 @@
+input, textarea {
+    all: unset; 
+    background-color: #fafafa;
+    border: 2px solid #000000;
+}
+
+.input-1 {
+    width: 270px;
+    height: 40px;
+}
+
+.input-2 {
+    width: 412px;
+    height: 45px;
+}
+
+textarea {
+    width: 450px;
+    height: 115px;
+}
+
+input:focus, textarea:focus{
+    border-color: #a7a3a3;
+}
